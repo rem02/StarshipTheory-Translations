@@ -121,13 +121,13 @@ a été détruit
 #	200		Build buttons text
 Retirer
 Annuler les plans ou supprimer la structure. Remboursement du coût total si elle n'est pas endommagée, sinon remboursé le pourcentage de HP.
-coque
+Coque
 Construire la base du navire - les coins exposés ne fuient pas
 Sol
 Construire sur la coque pour créer des pièces
 Lit
 Améliore le bien-être
-Petite caisse
+Caisse petite
 Ajouter la capacité de chargement
 Caisse moyenne
 Unités
@@ -135,18 +135,18 @@ Distributeur d'aliments
 Fournit des aliments [DIRECTIONNEL]
 Moteur moyen
 Nécessite une maintenance. Ne peut pas être construit sur les coins. Augmenter l'élimination par
-Grand moteur
+Moteur Grand 
 Nécessite une maintenance. Ne peut pas être construit sur les coins. Augmenter l'élimination par
-XLarge moteur
+Moteur XLarge
 Nécessite une maintenance. Ne peut pas être construit sur les coins. Augmenter l'élimination par
-chaise
+Chaise
 Utilisé pour manger et par l'équipe d'opérations. On peut se promener.
-Petite table
-Mieux vaut manger sur le sol
+Table petite
+Mieux que de manger sur le sol
 Table moyenne
-Mieux vaut manger sur le sol
-Grande table
-Mieux vaut manger sur le sol
+Mieux que de manger sur le sol
+Table grande
+Mieux que de manger sur le sol
 Porte
 Peut être verrouillé
 Airlock
@@ -158,17 +158,17 @@ Génère de l'énergie
 Solaire
 Coin de coque
 Description de l'angle de coque
-Lit de petite plante
+Cultivateur petit
 Utilisé pour cultiver 1 aliment
-Lit de plante moyenne
+Cultivateur moyen
 Utilisé pour cultiver 2 aliments
-Grand lit de plante
+Cultivateur grand
 Utilisé pour cultiver 4 aliments
-Petit réacteur
+Réacteur petit
 Génère de l'énergie. Nécessite une maintenance.
 Réacteur moyen
 Génère de l'énergie. Nécessite une maintenance.
-Grand réacteur
+Réacteur grand
 Génère de l'énergie. Nécessite une maintenance.
 Console de navigation
 A travaillé par les opérations. Augmente l'élan par les compétences de l'intelligence. [DIRECTIONNEL]
@@ -184,22 +184,22 @@ Petit moteur
 Nécessite une maintenance. Ne peut pas être construit sur les coins. Augmenter l'élimination par
 Générateur de bouclier
 Recharge la cellule de protection.
-Soutien de la vie
-Pompes à l'oxygène
+Support de vie
+Pompes à oxygène
 Support de vie moyen
 Description de la vie moyenne
-Grand soutien de vie
-Large descente de support de vie
-Tourte au laser
-Arme d'énergie de base
+Support de vie grand 
+Description de la vie grand
+Tourelle laser
+Arme à énergie de base
 Cellule de protection
 Composant du bouclier de base. Nécessite une charge.
-Lanceur Torpedo
+Lance torpille
 Arme explosive puissante à feu lent
 Rocket pod
 Arme explosive multi-shot
-Rétroviseur plasma
-Arme à énergie de tir rapide
+Tourelle plasma
+Arme à énergie à tir rapide
 Railgun
 Arme à projectile difficile
 Tourelle EMP
@@ -236,15 +236,15 @@ Console de chaleur
 A travaillé par les opérations. Augmenter le montant de l'évent de chaleur par intelligence. [DIRECTIONNEL]
 Ensemble de communications
 Disque de communication
-Petit dégagement de chaleur
+Refroidisseur petit
 Diminue la chaleur
-Petit panneau solaire
+Panneau solaire petit
 Génère du pouvoir
 Panneau solaire moyen
 Génère du pouvoir
 Ensemble de CPU
 Fournit des processeurs
-Refroidisseur d'eau
+Fontaine à eau
 Fournit de l'eau
 Ensemble de capteurs
 Détection de menace antérieure
