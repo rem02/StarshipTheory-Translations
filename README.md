@@ -1,4 +1,4 @@
-# StarshipTheory-Translations-
+# StarshipTheory-Translations
 Correction de la traduction pour le jeux Starship Theory
 
 - Télécharger le fichier.
